@@ -1,0 +1,12 @@
+anchorpy==0.18.0
+asyncstdlib==3.12.0
+base58==2.1.1
+binancepy==0.0.1b0
+borsh_construct==0.1.0
+construct==2.10.68
+jsonrpcclient==4.0.3
+Requests==2.31.0
+solana==0.31.0
+solders==0.19.0
+spl==0.0.1.dev0
+websockets==10.4
